@@ -1,0 +1,15 @@
+str1 str11
+str2
+str3
+str4
+str5
+
+str11
+str22
+str33
+str44
+Str55
+
+int cflags = REG_EXTENDED;// & REG_NEWLINE;
+int reti;
+char * pattern1 = "1|2";
